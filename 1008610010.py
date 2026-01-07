@@ -1,0 +1,1 @@
+print("Hello, 地球!")
